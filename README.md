@@ -4,7 +4,7 @@ I'm Winverse. <a href="https://www.youtube.com/@Winverse_Official">You can click
 - 🔭 I’m currently working on viruses.
 - 🌱 I’m currently learning C#.
 - 💬 Ask me about anything!
-- 📫 How to reach me:  <a href="mailto:wojciech2976@gmail.com">wojciech2976@gmail.com</a>, <a href="mailto:wojciechhajdrowski@outlook.com">wojciechhajdrowski@outlook.com</a>
+- 📫 How to reach me: --No--
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like pets, technology, english, drawing and DIY projects. I've made a working TV antenna.
 - 🧠 I have autism. (maybe ADHD too)
